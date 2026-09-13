@@ -28,7 +28,7 @@ export const quotes:quotesTypes[] = [
         id:4,
         name:"Maximus",
         film:"Gladiator",
-        quote:"One day, you're going to look around and you're going to realize that everybody loves you, but nobody likes you. And that is the loneliest feeling in the world.Death smiles at us all. All a man can do is smile back."
+        quote:"Death smiles at us all. All a man can do is smile back."
     },
     {
         id:5,
